@@ -1,8 +1,8 @@
 {
-    "ownerNumber": ["94764328610@s.whatsapp.net"],
+    "ownerNumber": ["94764328610@s.whatsapp.net"],["94764328610@s.whatsapp.net"],
     "ownerName": "IDUWRA OFFICIAL BOT",
     "instagram" : "https://instagram.com/dinuwa_lk._",
-    "botName": "Pizzaa🐧-Mdོ ",
+    "botName": "iduwara-Mdོ ",
     "footer":
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
@@ -10,7 +10,7 @@
     "BotKey": "VdFlEL76",
     "auto_welcomeMsg": false,
     "auto_leaveMsg": false,    
-    "autobio": true,
+    "autobio": false,
     "anticall": true,
     "autorespond": false,
     "autoblok212": true,
